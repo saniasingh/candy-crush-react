@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+  padding: 30px;
+  text-align: center;
+  justify-content: center;
+  background: rgba(179,220,237,1);
+
+}
+h2 {
+justify-content: center;
+float: right;
+}
+
+
+.game {
+  width: 560px; 
+  height: 560px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.game img {
+  width: 70px;
+  height: 70px;
+}
